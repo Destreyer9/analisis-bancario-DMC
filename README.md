@@ -26,7 +26,20 @@
 </ul>
 <hr>
 <h2>Capturas de la app</h2>
-
+<h3>View Home</h3>
+<img src="capturas/home.png" alt="home" width="600">
+<h3>Carga dataset</h3>
+<img src="capturas/carga_dataset.png" alt="dataset" width="600">
+<h3>Análisis de datos exploratorio item 1 & 2</h3>
+<img src="capturas/EDA 1,2.png" alt="eda_1_2" width="600">
+<h3>Análisis de datos exploratorio item 3 & 4</h3>
+<img src="capturas/EDA 3,4.png" alt="eda_3_4" width="600">
+<h3>Análisis de datos exploratorio item 5 & 6</h3>
+<img src="capturas/EDA 5,6.png" alt="eda_5_6" width="600">
+<h3>Análisis de datos exploratorio item 7 & 8</h3>
+<img src="capturas/EDA 7,8.png" alt="eda_7_8" width="600">
+<h3>Análisis de datos exploratorio item 9 & 10</h3>
+<img src="capturas/EDA 9, 10.png" alt="eda_9_10" width="600">
 <h2>Instrucciones de ejecución</h2>
 <h3>Prerequisitos</h3>
 <p>Este proyecto requiere las siguientes dependencias:</p>
