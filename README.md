@@ -14,13 +14,13 @@
 <br>
 
 <h2>Descripción</h2>
-<p>analisis-bancario-DMC Es una herramienta integral para desarrolladores diseñada para facilitar el análisis de datos bancarios y la toma de decisiones a través de un panel interactivo basado en la web. Creada con Streamlit, pandas, seaborn y openpyxl, ofrece una experiencia fluida para explorar la aceptación de las campañas de marketing por parte de los clientes dentro del sector financiero..</p>
-<p><strong>Why analisis-bancario-DMC?</strong></p>
+<p>analisis-bancario-DMC Es una herramienta integral para desarrolladores diseñada para facilitar el análisis de datos bancarios y la toma de decisiones a través de un panel interactivo basado en la web. Creada con Streamlit, pandas, seaborn y openpyxl, ofrece una experiencia fluida para explorar la aceptación de las campañas de marketing por parte de los clientes dentro del sector financiero.</p>
+<p><strong>¿Por qué analisis-bancario-DMC?</strong></p>
 <p>Este proyecto tiene como objetivo optimizar los flujos de trabajo de análisis bancario, respaldar las decisiones basadas en datos y garantizar la coherencia de los datos en todas las operaciones financieras. Las características principales incluyen:</p>
 <ul class="list-disc pl-4 my-0">
 <li class="my-0">🧩 <strong>🎯 Dashboard Interactivo:</strong> Proporciona una interfaz intuitiva para explorar conjuntos de datos y módulos de análisis.</li>
 <li class="my-0">🛠️ <strong>Data Processing &amp; Visualization:</strong> Aprovecha pandas y seaborn para una manipulación de datos robusta y visualizaciones reveladoras..</li>
-<li class="my-0">📊 <strong>Excel Integration:</strong> Admite el manejo de archivos Excel con openpyxl para una gestión flexible de los datos..</li>
+<li class="my-0">📊 <strong>Inttegraciión a Excel:</strong> Admite el manejo de archivos Excel con openpyxl para una gestión flexible de los datos.</li>
 <li class="my-0">🚀 <strong>Arquitectura Modular:</strong> El script central coordina el análisis, lo que permite una fácil personalización y ampliación.</li>
 <li class="my-0">🔗 <strong> Integración intuitiva:</strong> Diseñado para integrarse fácilmente en los flujos de trabajo de datos financieros existentes para una gestión eficiente.</li>
 </ul>
@@ -48,38 +48,33 @@
 <li class="my-0"><strong>Package Manager:</strong> Pip</li>
 </ul>
 <h3>Instalación</h3>
-<p>Build analisis-bancario-DMC desde la fuente e instale las dependencias:</p>
+<p>Construye analisis-bancario-DMC desde la fuente e instale las dependencias:</p>
 <ol>
 <li class="my-0">
-<p><strong>Clone the repository:</strong></p>
+<p><strong>Clona el repositorio:</strong></p>
 <pre><code class="language-sh">❯ git clone https://github.com/Destreyer9/analisis-bancario-DMC
 </code></pre>
 </li>
 <li class="my-0">
-<p><strong>Navigate to the project directory:</strong></p>
+<p><strong>Navega el directorio del proyecto:</strong></p>
 <pre><code class="language-sh">❯ cd analisis-bancario-DMC
 </code></pre>
 </li>
 <li class="my-0">
-<p><strong>Install the dependencies:</strong></p>
+<p><strong>Instala las dependencias:</strong></p>
 </li>
 </ol>
-<p><strong>Using <a href="https://pypi.org/project/pip/">pip</a>:</strong></p>
+<p><strong>Usando <a href="https://pypi.org/project/pip/">pip</a>:</strong></p>
 <pre><code class="language-sh">❯ pip install -r requirements.txt
 </code></pre>
 <h3>Usage</h3>
-<p>Run the project with:</p>
-<p><strong>Using <a href="https://pypi.org/project/pip/">pip</a>:</strong></p>
+<p>Corre el proyecto con:</p>
+<p><strong>Usando <a href="https://pypi.org/project/pip/">pip</a>:</strong></p>
 <pre><code class="language-sh">python {entrypoint}
-</code></pre>
-<h3>Testing</h3>
-<p>Analisis-bancario-dmc uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
-<p><strong>Using <a href="https://pypi.org/project/pip/">pip</a>:</strong></p>
-<pre><code class="language-sh">pytest
 </code></pre>
 <hr>
 <h2>Links relevantes</h2>
-<p><strong><a href="https://x8ar/vnju357buvztbpkn2a.streamlit.app/">website</a></strong></p>
+<p><strong><a href="https://x8arvnju357buvztbpkn2a.streamlit.app/">website</a></strong></p>
 <hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
 <hr></div></div>
